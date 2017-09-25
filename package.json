@@ -1,0 +1,23 @@
+{
+  "name": "mtm6330-week2",
+  "version": "1.0.0",
+  "description": "My first GitHub repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalokoi/mtm6330-week2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalokoi/mtm6330-week2/issues"
+  },
+  "homepage": "https://github.com/Kalokoi/mtm6330-week2#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
